@@ -33,12 +33,12 @@ Output: Image spectrogram in jpg (or other)
 
 Input: Spectrogram
 
-Output: 1D Array with 100 columns (or other)
+Output: Boolean 1D Array with 100 columns (or other)
 
 ### 4. Model Inferer
 Input: Spectrogram
 
-Output: Bests at X second
+Output: Boolean 1D Array with 100 columns (or other)
 
 # iOS components
 
