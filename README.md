@@ -14,19 +14,19 @@ If you have any trouble installing PyAudio, try to install igt using conda:
 
 # Python components
 
-### 0. Raw Beat Generator
+### 1. Raw Beat Generator
 
 Input: Songs in mp3 (or other)
 
 Output: JSON following X format
 
-### 1. Rhythm Generator
+### 2. Rhythm Generator
 
 Input: JSON following X format
 
 Output: JSON following X format
 
-### 2. Model Input Data Generator
+### 3. Model Input Data Generator
 
 Input: Songs in mp3
 
@@ -35,18 +35,18 @@ Output: Image spectrogram in jpg (or other)
 - The X axis rate is 44100 (or other)
 - The Y axis are the frequencies, linearly (or logarithmically) growing by 20HZ (or other)
 
-### 3. Model Generator
+### 4. Model Generator
 
 Input: Spectrogram
 
 Output: Boolean 1D Array with 100 columns (or other)
 
-### 4. Model Inferer
+### 5. Model Inferer
 Input: Spectrogram
 
 Output: Boolean 1D Array with 100 columns (or other)
 
-### 5. Model Translator
+### 6. Model Translator
 Using coremltools to translate the PyTorch model to CoreML -> https://github.com/apple/coremltools
 
 # iOS components
