@@ -16,7 +16,7 @@ If you have any trouble installing PyAudio, try to install igt using conda:
 
 ### 1. Training Data Generator
 
-Input 1: Songs in mp3.
+Input 1: Songs in mp3 (or other)
 
 Output 2: JSON following X format
 
@@ -24,10 +24,10 @@ Output 2: JSON following X format
 
 Input: Songs in mp3
 
-Output: Image spectrogram in jpb
-- 100px by 50px
-- The X axis rate is 44100
-- The Y axis are the frequencies, linearly growing by 20HZ
+Output: Image spectrogram in jpg (or other)
+- 100px by 50px (or other)
+- The X axis rate is 44100 (or other)
+- The Y axis are the frequencies, linearly (or logarithmically) growing by 20HZ (or other)
 
 ### 3. Model Generator
 
