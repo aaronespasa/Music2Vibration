@@ -40,6 +40,9 @@ Input: Spectrogram
 
 Output: Boolean 1D Array with 100 columns (or other)
 
+### 4. Model Translator
+Using coremltools to translate the PyTorch model to CoreML -> https://github.com/apple/coremltools
+
 # iOS components
 
 ### 1. Model Input Data Generator
