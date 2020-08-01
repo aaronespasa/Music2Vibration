@@ -20,6 +20,8 @@ Input: Songs in mp3 (or other)
 
 Output: JSON following X format
 
+Reference: http://tommymullaney.com/projects/rhythm-games-neural-networks
+
 ### 1.2 Rhythm Generator
 
 Input: JSON following X format
