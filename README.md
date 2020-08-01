@@ -16,7 +16,7 @@ If you have any trouble installing PyAudio, try to install using conda:
 
 # 1. Training Data Generator
 
-# 2. Model Input Data Generaton
+# 2. Model Input Data Generator
 
 # 3. Model Generator
 
