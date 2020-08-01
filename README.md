@@ -33,7 +33,7 @@ Output: Image spectrogram in jpg (or other)
 
 Input: Spectrogram
 
-Output: Beats at X second
+Output: 1D Array with 100 columns (or other)
 
 ### 4. Model Inferer
 Input: Spectrogram
