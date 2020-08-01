@@ -53,6 +53,8 @@ Using coremltools to translate the PyTorch model to CoreML -> https://github.com
 
 ### 2.1 Model Input Data Generator
 
+Reference: https://albanperli.github.io/iOS-Spectrogram/
+
 ### 2.2 Model Inferer
 
 ### 2.3 Model Output Adaptation
