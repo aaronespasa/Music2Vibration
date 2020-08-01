@@ -20,7 +20,7 @@ Input: Songs in mp3 (or other)
 
 Output: JSON following X format
 
-### 1. Curated Beat Generator
+### 1. Rhythm Generator
 
 Input: JSON following X format
 
