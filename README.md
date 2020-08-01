@@ -14,11 +14,17 @@ If you have any trouble installing PyAudio, try to install igt using conda:
 
 # Python components
 
+### 0. Raw Beat Generator
+
+Input: Songs in mp3 (or other)
+
+Output: JSON following X format
+
 ### 1. Training Data Generator
 
-Input 1: Songs in mp3 (or other)
+Input: JSON following X format
 
-Output 2: JSON following X format
+Output: JSON following X format
 
 ### 2. Model Input Data Generator
 
