@@ -14,18 +14,18 @@ If you have any trouble installing PyAudio, try to install using conda:
 
 # Python components
 
-# 1. Training Data Generator - Python
+# 1. Training Data Generator
 
-# 2. Model Input Data Generator - Python
+# 2. Model Input Data Generaton
 
-# 3. Model Generator - Python
+# 3. Model Generator
 
-# 4. Model Inferer - iOS
+# 4. Model Inferer
 
 # iOS components
 
-# 1. Model Input Data Generator - Swift
+# 1. Model Input Data Generator
 
-# 2. Model Inferer - iOS
+# 2. Model Inferer
 
-# 3. Model Output Adaptation - iOS
+# 3. Model Output Adaptation
