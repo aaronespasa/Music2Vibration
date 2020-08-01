@@ -18,7 +18,7 @@ If you have any trouble installing PyAudio, try to install using conda:
 
 Input 1: Songs in mp3.
 
-Output 2: JSON following this format ??
+Output 2: JSON following X format
 
 # 2. Model Input Data Generator
 
@@ -32,10 +32,12 @@ Output: Image spectrogram in jpb
 # 3. Model Generator
 
 Input: Spectrogram
+
 Output: Beats at X second
 
 # 4. Model Inferer
 Input: Spectrogram
+
 Output: Bests at X second
 
 # iOS components
